@@ -1,3 +1,3 @@
 # Zevi Assignment
 
-## Deployed Site Link : [https://roaring-choux-495bbc.netlify.app/](Zevi)
+## Deployed Site Link : https://roaring-choux-495bbc.netlify.app/
